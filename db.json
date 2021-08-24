@@ -1,0 +1,47 @@
+{ 
+    "name": "Diego Muñoz", 
+    "profile": "Senior QA Automation Analyst", 
+    "summary": "Diego is a mid-level QA Automation engineer with 3 years of experience working as a QA Automation. He has experience with Javascript, Java and C# as well as Selenium WebDriver and Cypress. He did super well on our technical interviews and has great communication skills.", 
+    "experience": [ 
+        { 
+            "title": "QA Automation Engineer", 
+            "where": "Naranja X I Buenos Aires, Argentina", 
+            "when": "July 2021 - Present", 
+            "what": "Worked using postman, javascript, Gherkin and cucumber | Lead three teams of QA | Participate in the implementation of the framework from scratch | Used Postman for API testing | Implement Best Practices for automation | Worked with MySQL using MySQLWorkbench | Used Docker to run microservices locally.." 
+        }, 
+        { 
+            "title": "QA Automation Engineer", 
+            "where": "Santander Tecnología I Buenos Aires, Argentina", 
+            "when": "Nov 2020 - July 2021", 
+            "what": "Worked using javascript, gherkin and cucumber | Participate in the implementation of the framework from scratch | Used Cypress for automating tests in Front end and Back End | Used Postman for API testing | Implement Best Practices for automation | Worked with MongoDB using Robo3T, updating the database and making dumps | Used Docker to run microservices for testing" 
+        } 
+    ], 
+    "techs": [
+        "Java", 
+        "Javascript", 
+        "Selenium", 
+        "Scrum", 
+        "HTML", 
+        "Android", 
+        "GIT"
+    ], 
+    "languages": [ 
+        { 
+            "language": "Spanish", 
+            "level": "Native" 
+        },
+        { 
+            "language": "English", 
+            "level": "Profesional" 
+        } 
+    ], 
+    "education": [ 
+        { 
+            "title": "Computer Science", 
+            "type": "Degree", 
+            "institution": "Universidad Nacional del Sur", 
+            "where": "Buenos Aires, Argentina", 
+            "when": "2010 - 2020" 
+        } 
+    ] 
+}
